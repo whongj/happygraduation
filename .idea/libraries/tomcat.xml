@@ -1,0 +1,17 @@
+<component name="libraryTable">
+  <library name="tomcat">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/Desktop/apache-tomcat-7.0.75/lib/ecj-4.4.2.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/apache-tomcat-7.0.75/lib/el-api.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/apache-tomcat-7.0.75/lib/jasper-el.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/apache-tomcat-7.0.75/lib/jasper.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/apache-tomcat-7.0.75/lib/jsp-api.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/apache-tomcat-7.0.75/lib/servlet-api.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/apache-tomcat-7.0.75/lib/tomcat-api.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/apache-tomcat-7.0.75/lib/tomcat-coyote.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/apache-tomcat-7.0.75/lib/tomcat-dbcp.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

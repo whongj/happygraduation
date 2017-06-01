@@ -1,0 +1,15 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="happygraduation:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="happygraduation_0.0.1-SNAPSHOT_20170529.war">
+      <element id="artifact" artifact-name="happygraduation:war exploded" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="lib">
+          <element id="library" level="module" name="Maven: com.alibaba:jconsole:1.8.0" module-name="happygraduation" />
+          <element id="library" level="module" name="Maven: com.alibaba:tools:1.8.0" module-name="happygraduation" />
+          <element id="library" level="project" name="tomcat" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>
